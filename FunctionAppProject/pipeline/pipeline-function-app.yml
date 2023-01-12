@@ -3,10 +3,15 @@ name: "$(BuildDefinitionName)_$(Year:yyyy).$(Month).$(DayOfMonth)_$(Rev:rr)"
 trigger:
  - master
 
+parameters:
+- name: enableProvisioning
+  displayName: 'Enable provisioning'
+  type: boolean
+  default: false
+
 variables:
   vmImageName: "ubuntu-latest"
   subscriptionName: "MyAzureSubscription"
-  enableProvisioning: true
 
 stages:
 # Stage: Build
@@ -56,4 +61,4 @@ stages:
   parameters:
     env: "Dev"
     environment: "Development"
-    enableProvisioning: "${{variables.enableProvisioning}}"
+    enableProvisioning: "${{parameters.enableProvisioning}}"
