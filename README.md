@@ -46,3 +46,7 @@ A simple restore, build and Unit test, which can be applied during the build pro
 ###### PlayingWithMountebank/pipeline.yml
 
 - [PlayingWithMountebank](https://github.com/19balazs86/PlayingWithMountebank) repository contains a pipeline with the following steps. Install the mountebank NPM package globally, run it in the background. Run unit test to initiate HTTP call over the imposter, defined in the test.
+
+###### Azure Container App / pipeline.yml
+
+- [Azure Container App](https://github.com/19balazs86/AzureContainerApp) repository contains a pipeline to build and push docker image to ARC and update the Container App with the latest image.
