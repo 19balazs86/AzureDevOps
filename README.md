@@ -2,22 +2,23 @@
 
 #### Resources
 
-- [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/)
+- [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines) 📚
   - [YAML schema reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema)
   - [Build and release tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks)
   - [Predefined variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables)
-- [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure)
+- [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure) 📚
   - [Install the Azure PowerShell module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps)
-  - [PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module/)
-- ARM - [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
+  - [PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module)
+- ARM - [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager) 📚
   - [Understand the structure and syntax of ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates)
   - [ARM template functions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-functions)
-  - [Define resources in ARM templates](https://docs.microsoft.com/en-us/azure/templates/)
+  - [Define resources in ARM templates](https://docs.microsoft.com/en-us/azure/templates)
   - [Deploy resources with ARM templates and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy)
 - Others
-  - [YouTube channel](https://www.youtube.com/@geralexgr/videos) in YAML pipeline topic *(Gerasimos Alexiou)*
-  - [Azure DevOps Pipelines Refactoring Technics](https://devkimchi.com/2019/09/04/azure-devops-pipelines-refactoring-technics/) *(DevKimchi)*
-  - [6 ways passing Secrets to ARM templates](https://devkimchi.com/2019/04/24/6-ways-passing-secrets-to-arm-templates/) *(DevKimchi)*
+  - [YouTube channel](https://www.youtube.com/@geralexgr/videos) in YAML pipeline topic 📽*Gerasimos Alexiou*
+  - [Azure DevOps Pipelines Refactoring Technics](https://devkimchi.com/2019/09/04/azure-devops-pipelines-refactoring-technics/) 📓*DevKimchi*
+  - [6 ways passing Secrets to ARM templates](https://devkimchi.com/2019/04/24/6-ways-passing-secrets-to-arm-templates/) 📓*DevKimchi*
+  - [Automate .NET SDK updates with global.json and Renovate](https://anthonysimmon.com/automate-dotnet-sdk-updates-global-json-renovate) 📓*Anthony Simmon*
 
 #### Pipelines
 
