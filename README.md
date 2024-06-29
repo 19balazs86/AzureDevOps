@@ -14,6 +14,10 @@
   - [ARM template functions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-functions)
   - [Define resources in ARM templates](https://docs.microsoft.com/en-us/azure/templates)
   - [Deploy resources with ARM templates and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy)
+- [Azure Developer CLI (azd)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli) 📚
+  - [Reference](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/reference) 📚
+  - [AZD CLI deep dive](https://youtu.be/OD0_nP9QB6g?t=3173) 📽*1 hour - Jason Taylor - NDC Sydney 2024*
+
 - Others
   - [YouTube channel](https://www.youtube.com/@geralexgr/videos) in YAML pipeline topic 📽*Gerasimos Alexiou*
   - [Azure DevOps Pipelines Refactoring Technics](https://devkimchi.com/2019/09/04/azure-devops-pipelines-refactoring-technics/) 📓*DevKimchi*
