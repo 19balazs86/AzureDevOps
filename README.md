@@ -17,12 +17,13 @@
 - [Azure Developer CLI (azd)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli) 📚
   - [Reference](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/reference) 📚
   - [AZD CLI deep dive](https://youtu.be/OD0_nP9QB6g?t=3173) 📽*1 hour - Jason Taylor - NDC Sydney 2024*
-
 - Others
   - [YouTube channel](https://www.youtube.com/@geralexgr/videos) in YAML pipeline topic 📽*Gerasimos Alexiou*
   - [Azure DevOps Pipelines Refactoring Technics](https://devkimchi.com/2019/09/04/azure-devops-pipelines-refactoring-technics/) 📓*DevKimchi*
   - [6 ways passing Secrets to ARM templates](https://devkimchi.com/2019/04/24/6-ways-passing-secrets-to-arm-templates/) 📓*DevKimchi*
-  - [Automate .NET SDK updates with global.json and Renovate](https://anthonysimmon.com/automate-dotnet-sdk-updates-global-json-renovate) 📓*Anthony Simmon*
+  - [Renovate](https://docs.renovatebot.com) 📓*Official docs - automated dependency updates*
+    - [Setting up Azure DevOps pipeline for automatic NuGet package updates](https://nietras.com/2024/07/09/renovate-azure-devops) 📓*Nietras*
+    - [Automate .NET SDK updates with global.json and Renovate](https://anthonysimmon.com/automate-dotnet-sdk-updates-global-json-renovate) 📓*Anthony Simmon*
     - [Sharing the Renovate configuration across multiple projects](https://www.meziantou.net/sharing-the-renovate-configuration-across-multiple-projects.htm) 📓*Meziantou*
 
 #### Pipelines
