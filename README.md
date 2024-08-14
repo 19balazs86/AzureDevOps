@@ -6,6 +6,11 @@
   - [YAML schema reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema)
   - [Build and release tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks)
   - [Predefined variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables)
+- [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview) 📚*MS-Learn*
+  - Reference for: [Resources with Bicep and ARM templates](https://docs.microsoft.com/en-us/azure/templates) 📚*MS-Learn*
+  - Examples
+    - [Quickstarts templates](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts) 👤*Azure*
+    - [Playground with sample templates](https://bicepdemo.z22.web.core.windows.net)
 - [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure) 📚
   - [Install the Azure PowerShell module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps)
   - [PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module)
