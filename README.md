@@ -12,7 +12,7 @@
     - [Quickstarts templates](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts) 👤*Azure*
     - [Playground with sample templates](https://bicepdemo.z22.web.core.windows.net)
 - [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure) 📚
-  - [Install the Azure PowerShell module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps)
+  - [Install the Azure PowerShell module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps) | [Latest MSI installer](https://github.com/Azure/azure-powershell/releases/latest)
   - [PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module)
 - ARM - [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager) 📚
   - [Understand the structure and syntax of ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates)
