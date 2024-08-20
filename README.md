@@ -6,14 +6,19 @@
   - [YAML schema reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema)
   - [Build and release tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks)
   - [Predefined variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables)
-- [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview) 📚*MS-Learn*
-  - Reference for: [Resources with Bicep and ARM templates](https://docs.microsoft.com/en-us/azure/templates) 📚*MS-Learn*
+- [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview) 📚
+  - Reference for: [Resources with Bicep and ARM templates](https://docs.microsoft.com/en-us/azure/templates) 📚
+  - [Install Bicep tool](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install) 📚 | Latest installer: [bicep-setup-win-x64.exe](https://github.com/Azure/bicep/releases/latest/download/bicep-setup-win-x64.exe) 💾
+  - https://github.com/Azure/bicep/releases/latest/download/bicep-setup-win-x64.exe
   - Examples
     - [Quickstarts templates](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts) 👤*Azure*
     - [Playground with sample templates](https://bicepdemo.z22.web.core.windows.net)
 - [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure) 📚
-  - [Install the Azure PowerShell module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps) | [Latest MSI installer](https://github.com/Azure/azure-powershell/releases/latest)
+  - [Install the Azure PowerShell module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps) | [Latest MSI installer](https://github.com/Azure/azure-powershell/releases/latest) 💾
   - [PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module)
+- [az | Azure CLI - Refecence](https://learn.microsoft.com/en-us/cli/azure/reference-index) 📚
+  - [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows) 📚 | [Latest MSI installer](https://aka.ms/installazurecliwindowsx64) 💾
+
 - ARM - [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager) 📚
   - [Understand the structure and syntax of ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates)
   - [ARM template functions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-functions)
