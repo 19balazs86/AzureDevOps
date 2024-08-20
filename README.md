@@ -18,7 +18,6 @@
   - [PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module)
 - [az | Azure CLI - Refecence](https://learn.microsoft.com/en-us/cli/azure/reference-index) 📚
   - [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows) 📚 | [Latest MSI installer](https://aka.ms/installazurecliwindowsx64) 💾
-
 - ARM - [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager) 📚
   - [Understand the structure and syntax of ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates)
   - [ARM template functions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-functions)
