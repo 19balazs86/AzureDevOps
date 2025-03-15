@@ -1,6 +1,6 @@
 # Playing with Azure DevOps
 
-#### Resources
+## Resources
 
 - [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines) 📚
   - [YAML schema reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema)
@@ -35,7 +35,7 @@
     - [Automate .NET SDK updates with global.json and Renovate](https://anthonysimmon.com/automate-dotnet-sdk-updates-global-json-renovate) 📓*Anthony Simmon*
     - [Sharing the Renovate configuration across multiple projects](https://www.meziantou.net/sharing-the-renovate-configuration-across-multiple-projects.htm) 📓*Meziantou*
 
-#### Pipelines
+## Pipelines
 
 ###### HelloDevOps/pipeline-hello-devops.yml
 
@@ -66,3 +66,8 @@ A simple restore, build and Unit test, which can be applied during the build pro
 ###### Azure Container App / pipeline.yml
 
 - [Azure Container App](https://github.com/19balazs86/AzureContainerApp) repository contains a pipeline to build and push docker image to ARC and update the Container App with the latest image.
+
+## GitHub Actions
+
+- [Deploy web application to Azure](https://www.milanjovanovic.tech/blog/streamlining-dotnet-9-deployment-with-github-actions-and-azure) 📓*Milan's newsletter*
+- [Deploy web application to Azure](https://youtu.be/6qPzeB0dN9o) 📽*14 min - Milan*
